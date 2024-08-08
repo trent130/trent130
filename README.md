@@ -18,4 +18,4 @@ If you have any questions, suggestions, or just want to connect, feel free to re
 
 Thank you for visiting my repository! I hope you enjoy exploring my work as much as I enjoy creating it.
 
-Happy coding! 🎉
+Happy coding! 
