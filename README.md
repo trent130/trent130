@@ -36,12 +36,7 @@ This page showcases a variety of  applications and scripts that I've developed o
   
 </div>
 <br>
-<!-- thropy -->
-<a href="https://trent130.github.io">
-    <p align="center">
-        <img src="https://github-profile-trophy.vercel.app/?username=trent130&column=7&theme=onedark"/>
-    </p>
-</a>
+
 
 
 
