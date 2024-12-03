@@ -22,12 +22,13 @@ This page showcases a variety of  applications and scripts that I've developed o
   ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
   ![Javascript](https://img.shields.io/badge/-Javascript-black?logo=git&style=social)&nbsp;&nbsp;
-  ![Rust](https://img.shields.io/badge/-Rust-black?logo=Rust&style=social)&nbsp;&nbsp;
-  ![Astro](https://img.shields.io/badge/-Astro-black?logo=Astro&style=social)&nbsp;&nbsp;
+  ![typescript](https://img.shields.io/badge/-Astro-black?logo=Typescript&style=social)&nbsp;&nbsp;
   ![Express](https://img.shields.io/badge/-Express-black?logo=Express&style=social)&nbsp;&nbsp;
   ![Django](https://img.shields.io/badge/-Django-black?logo=Django&style=social)&nbsp;&nbsp;
   <!--Graph
-![Trent130's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=trent130&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)-->
+![Trent130's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=trent130&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
+![Astro](https://img.shields.io/badge/-Astro-black?logo=Astro&style=social)&nbsp;&nbsp;
+-->
 
 <!--Skill And More Information--> 
 <div align="center">
