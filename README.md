@@ -22,7 +22,7 @@ This page showcases a variety of  applications and scripts that I've developed o
   ![Git](https://img.shields.io/badge/-Git-black?logo=git&style=social)&nbsp;&nbsp;
   ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
   ![Javascript](https://img.shields.io/badge/-Javascript-black?logo=git&style=social)&nbsp;&nbsp;
-  ![typescript](https://img.shields.io/badge/-Astro-black?logo=Typescript&style=social)&nbsp;&nbsp;
+  ![typescript](https://img.shields.io/badge/-Typescript-black?logo=Typescript&style=social)&nbsp;&nbsp;
   ![Express](https://img.shields.io/badge/-Express-black?logo=Express&style=social)&nbsp;&nbsp;
   ![Django](https://img.shields.io/badge/-Django-black?logo=Django&style=social)&nbsp;&nbsp;
   <!--Graph
