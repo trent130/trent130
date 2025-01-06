@@ -23,19 +23,20 @@ This page showcases a variety of  applications and scripts that I've developed o
   ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=social)&nbsp;&nbsp;
   ![Javascript](https://img.shields.io/badge/-Javascript-black?logo=git&style=social)&nbsp;&nbsp;
   ![typescript](https://img.shields.io/badge/-Typescript-black?logo=Typescript&style=social)&nbsp;&nbsp;
-  ![Express](https://img.shields.io/badge/-Express-black?logo=Express&style=social)&nbsp;&nbsp;
   ![Django](https://img.shields.io/badge/-Django-black?logo=Django&style=social)&nbsp;&nbsp;
   <!--Graph
 ![Trent130's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=trent130&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
 ![Astro](https://img.shields.io/badge/-Astro-black?logo=Astro&style=social)&nbsp;&nbsp;
 -->
 
-<!--Skill And More Information--> 
+<!--Skill And More Information
 <div align="center">
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=trent130&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="" /> 
   <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trent130&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
   
 </div>
+--> 
+
 <br>
 
 
