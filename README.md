@@ -6,15 +6,16 @@
 
    <br>
 
-## 🚀 About this page
+## 🚀 About Me
 
-This page showcases a variety of  applications and scripts that I've developed over time. Each project reflects my journey as a programmer and my passion for solving problems through code. From simple scripts to more complex applications, you'll find a range of projects that demonstrate my skills and creativity.
+- 👋 Hi, I’m @trent130
+- 👀 I’m interested in ... python and javascript related stuff
+- 🌱 I’m currently learning ... many stuff
+- 💞️ I’m looking to collaborate on ... django and javascript projects
+- 📫 How to reach me ...text me on twittter @py_str
+- 😄 Pronouns: ...He/Him
+- ⚡ Fun fact: ... Good comes with with me as a package
 
-## 🌟 Highlights
-
-- **Diverse Projects**: Explore different domains, including data analysis, web development, automation, and more.
-- **Learning Journey**: Each project represents a step in my learning process, showcasing my growth and evolving skills.
-- **Open Source**: Contributions and feedback are welcome! Feel free to explore, fork, and collaborate.
 ## Language and tools:
   ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-black?logo=html5&style=social)&nbsp;&nbsp;
@@ -38,13 +39,6 @@ This page showcases a variety of  applications and scripts that I've developed o
 --> 
 
 <br>
-
-
-
-
-## 📫 Get in Touch
-
-If you have any questions, suggestions, or just want to connect, feel free to reach out! I'm always open to discussions about programming, or any interesting projects you might be working on.
 
 Thank you for visiting my repository! I hope you enjoy exploring my work as much as I enjoy creating it.
 
