@@ -2,17 +2,15 @@
        <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=007acc&height=120&section=header"/>
    </a>
     
-   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007acc&size=35&center=true&vCenter=true&width=1000&lines=Hi,there+I'm+Lawrence;Welcome+to+my+Github+profile;)
+   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007acc&size=35&center=true&vCenter=true&width=1000&lines=Hi👋,there+I'm+Lawrence;Welcome+to+my+Github+profile;)
 
    <br>
 
 ## 🚀 About Me
-
-- 👋 Hi, I’m @trent130
 - 👀 I’m interested in ... python and javascript related stuff
 - 🌱 I’m currently learning ... many stuff
-- 💞️ I’m looking to collaborate on ... django and javascript projects
-- 📫 How to reach me ...text me on twittter @py_str
+- 💞️ I’m looking to collaborate on ... python and javascript projects
+- 📫 How to reach me ...text me on twittter [@py_str](https://x.com/py_str)
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ... Good comes with with me as a package
 
