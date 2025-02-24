@@ -1,4 +1,4 @@
-- #### Hi, I'm Lawrence wafula 
+- #### Hi, I'm **Lawrence wafula** 
 - 👀 I’m interested in ... python and programming related stuff
 - 🌱 I’m currently learning ... many stuff
 - 💞️ I’m looking to collaborate on ... python and general programming projects
