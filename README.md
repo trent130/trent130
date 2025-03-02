@@ -19,8 +19,6 @@
 </div>
 --> 
 
-<br>
-
 ### 📈 GitHub Analytics
 <p align="center">
 <img src="https://nirzak-streak-stats.vercel.app?user=trent130&theme=dark&hide_border=true">
