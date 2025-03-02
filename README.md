@@ -26,13 +26,6 @@
 <img src="https://nirzak-streak-stats.vercel.app?user=trent130&theme=dark&hide_border=true">
 </p>
 
-<details>
-  <summary>⚡ Recent GitHub Activity</summary>
-  <br/>
-   <a href="https://github.com/trent130"><img alt="Ashioya's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=trent130&custom_title=Contribution%20Graph&theme=tokyo-night&area=true&hide_border=true" /></a>
-  <br/>
-</details>
-
 
 
 
