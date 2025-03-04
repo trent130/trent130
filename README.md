@@ -1,11 +1,11 @@
-- #### Hi, I'm **Lawrence wafula** 
-- 👀 I’m interested in ... python and programming related stuff
-- 🌱 I’m currently learning ... many stuff
-- 💞️ I’m looking to collaborate on ... python and general programming projects
-- 📫 How to reach me ...text me on twittter [@py_str](https://x.com/py_str)
-- 😄 Pronouns: ...He/Him
-- ⚡ Fun fact: ... Good comes with with me as a package
-##
+#### Hi, I'm **Lawrence wafula** 
+  - 👀 I’m interested in ... python and programming related stuff
+  - 🌱 I’m currently learning ... many stuff
+  - 💞️ I’m looking to collaborate on ... python and general programming projects
+  - 📫 How to reach me ...text me on twittter [@py_str](https://x.com/py_str)
+  - 😄 Pronouns: ...He/Him
+  - ⚡ Fun fact: ... Good comes with with me as a package
+
   <!--Graph
 ![Trent130's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=trent130&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
 ![Astro](https://img.shields.io/badge/-Astro-black?logo=Astro&style=social)&nbsp;&nbsp;
@@ -19,7 +19,7 @@
 </div>
 --> 
 
-
-
+**welcome to my profile**
+<!--
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=trent130.trent130)
-
+-->
