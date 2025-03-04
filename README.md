@@ -19,12 +19,6 @@
 </div>
 --> 
 
-### 📈 GitHub Analytics
-<p align="center">
-<img src="https://nirzak-streak-stats.vercel.app?user=trent130&theme=dark&hide_border=true">
-</p>
-
-
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=trent130.trent130)
