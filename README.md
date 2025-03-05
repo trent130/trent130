@@ -1,25 +1,36 @@
-#### Hi, I'm **Lawrence wafula** 
-  - 👀 I’m interested in ... python and programming related stuff
-  - 🌱 I’m currently learning ... many stuff
-  - 💞️ I’m looking to collaborate on ... python and general programming projects
-  - 📫 How to reach me ...text me on twittter [@py_str](https://x.com/py_str)
-  - 😄 Pronouns: ...He/Him
-  - ⚡ Fun fact: ... Good comes with with me as a package
+# Hi there, I'm Lawrence! 👋
 
-  <!--Graph
-![Trent130's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=trent130&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
-![Astro](https://img.shields.io/badge/-Astro-black?logo=Astro&style=social)&nbsp;&nbsp;
--->
+Welcome to my GitHub profile! I'm passionate about software development, open-source contributions, and continuous learning. Below you can find more about me, my interests, and my work.
 
-<!--Skill And More Information
-<div align="center">
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api?username=trent130&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="" /> 
-  <img width="45%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trent130&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
-  
-</div>
---> 
+## 🚀 About Me
 
-**welcome to my profile**
-<!--
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=trent130.trent130)
--->
+- 💻 Software Developer with a focus on web development and cloud technologies.
+- 🌱 Currently learning more about machine learning and AI.
+- 👯 Open to collaborating on exciting open-source projects.
+- 💬 Ask me about JavaScript, Python, and cloud computing.
+- 📫 Reach me at [@py_str](https://x.com/py_str)
+
+## 🛠️ Technologies & Tools
+
+- **Languages**: Python, TypeScript
+- **Frameworks**: React, Node.js, Express, Django
+- **Databases**: MongoDB, PostgreSQL
+- **Cloud**: AWS, Azure
+- **DevOps**: Docker, CI/CD
+
+## 📈 GitHub Stats
+
+![Trent's GitHub stats](https://github-readme-stats.vercel.app/api?username=trent130&show_icons=true&theme=radical)
+
+## 📂 Featured Repositories
+
+- [**Minimalistic portfolio**](https://github.com/trent130/minimalistic-portfolio): My portfolio project.
+- [**data structuring**](https://github.com/trent130/data-structuring): Exploring the Ds and ml, with my cleaning script.
+
+## 🔗 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/lawrence-wafula)
+- [Twitter](https://twitter.com/py_str)
+- [Personal Website](https://lawrence-wafula.vercel.app)
+
+Thank you for visiting my profile! Let's build something amazing together!
