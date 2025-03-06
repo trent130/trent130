@@ -13,9 +13,9 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 ## 🛠️ Technologies & Tools
 
 - **Languages**: Python, TypeScript
-- **Frameworks**: React, Node.js, Express, Django
-- **Databases**: MongoDB, PostgreSQL
-- **Cloud**: AWS, Azure
+- **Frameworks**: React, Nest.js, Express, Django
+- **Databases**: PostgreSQL, SQL
+<!-- **Cloud**: AWS, Azure-->
 - **DevOps**: Docker, CI/CD
 
 ## 📈 GitHub Stats
