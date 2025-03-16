@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about software development, open-so
 - 💻 Software Developer with a focus on web development and cloud technologies.
 - 🌱 Currently learning more about machine learning and AI.
 - 👯 Open to collaborating on exciting open-source projects.
-- 💬 Ask me about JavaScript, Python, and cloud computing.
+- 💬 Ask me about JavaScript, Python, cloud computing and general programming.
 - 📫 Reach me at [@py_str](https://x.com/py_str)
 
 ## 🛠️ Technologies & Tools
