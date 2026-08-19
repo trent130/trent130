@@ -4,7 +4,7 @@ I'm a backend-focused software engineer passionate about building scalable syste
 
 ## What I'm Into
 
-* Backend engineering with Python, Django, FastAPI, NestJS & distributed systems
+* Backend engineering with Python, Django, FastAPI, & distributed systems
 * AI agents, autonomous workflows, and LLM-powered applications
 * Cybersecurity research
 * Building products that solve real-world problems
@@ -18,9 +18,9 @@ I'm a backend-focused software engineer passionate about building scalable syste
 ## Tech Stack
 
 ```txt
-Python • Django • FastAPI • NestJS • TypeScript
+Python • Django • FastAPI  • TypeScript
 PostgreSQL • Docker • Redis • Celery • Linux
-React • WebRTC • AI/LLM Tooling
+WebRTC • AI/LLM Tooling
 ```
 
 ## Reach Me
